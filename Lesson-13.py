@@ -6,7 +6,7 @@ List.append(65)
 List.insert(2, 95)
 List.extend([0, 1, 2, 3])
 List = List + [0, 1, 2, 3]
-# List.remove('Mohon Basu')
+#List.remove('Mohon Basu')
 List.remove(List[9])
 List.pop()
 #List.sort()
